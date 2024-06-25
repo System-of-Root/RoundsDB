@@ -1,0 +1,8 @@
+
+config.json
+
+*.png
+*.db
+*.zip
+node_modules/*
+
